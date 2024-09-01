@@ -1,6 +1,6 @@
 # zed-ini
 
-Language support for INI files in Zed.
+`INI` support for Zed.
 
 ## Grammar
 

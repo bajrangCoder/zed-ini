@@ -1,11 +1,11 @@
 id = "ini"
 name = "ini"
 description = "Ini support."
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Raunak Raj <bajrangcoders@gmail.com>"]
 repository = "https://github.com/bajrangCoder/zed-ini"
 
 [grammars.ini]
 repository = "https://github.com/justinmk/tree-sitter-ini"
-commit = "87176e524f0a98f5be75fa44f4f0ff5c6eac069c"
+commit = "fc37e95b8d9651c60d81cccbcbbc55867dbb0afd"
