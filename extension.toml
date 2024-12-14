@@ -1,6 +1,6 @@
 id = "ini"
 name = "ini"
-description = "Ini support."
+description = "Ini support and conf, config etc too"
 version = "0.0.3"
 schema_version = 1
 authors = ["Raunak Raj <bajrangcoders@gmail.com>"]
