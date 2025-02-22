@@ -1,6 +1,22 @@
 name = "ini"
 grammar = "ini"
-path_suffixes = ["ini", "conf", "cfg", "config", ".editorconfig"]
+path_suffixes = [
+    "ini",
+    "conf",
+    "cfg",
+    "config",
+    ".editorconfig",
+    "automount",
+    "mount",
+    "path",
+    "scope",
+    "service",
+    "slice",
+    "socket",
+    "swap",
+    "target",
+    "timer",
+]
 line_comments = ["; ", "# "]
 autoclose_before = ":.,=}])>"
 brackets = [
