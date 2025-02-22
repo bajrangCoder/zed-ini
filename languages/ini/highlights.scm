@@ -12,3 +12,4 @@
 
 (setting
   (setting_name) @property)
+(setting_value) @string
