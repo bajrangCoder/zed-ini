@@ -16,6 +16,13 @@ path_suffixes = [
     "swap",
     "target",
     "timer",
+    "container",
+    "volume",
+    "network",
+    "kube",
+    "image",
+    "build",
+    "pod",
 ]
 line_comments = ["; ", "# "]
 autoclose_before = ":.,=}])>"
