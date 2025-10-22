@@ -8,4 +8,4 @@ repository = "https://github.com/bajrangCoder/zed-ini"
 
 [grammars.ini]
 repository = "https://github.com/justinmk/tree-sitter-ini"
-commit = "fc37e95b8d9651c60d81cccbcbbc55867dbb0afd"
+commit = "32b31863f222bf22eb43b07d4e9be8017e36fb31"
