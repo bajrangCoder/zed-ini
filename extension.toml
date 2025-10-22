@@ -1,7 +1,7 @@
 id = "ini"
 name = "ini"
 description = "Support for ini and related config files (ini, conf, cfg, config, editorconfig) and systemd unit files (automount, mount, path, scope, service, slice, socket, swap, target, timer)"
-version = "0.0.5"
+version = "0.0.6"
 schema_version = 1
 authors = ["Raunak Raj <bajrangcoders@gmail.com>"]
 repository = "https://github.com/bajrangCoder/zed-ini"
