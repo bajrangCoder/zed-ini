@@ -2,6 +2,7 @@ name = "ini"
 grammar = "ini"
 path_suffixes = [
     "ini",
+    "inf",
     "conf",
     "cfg",
     "config",
