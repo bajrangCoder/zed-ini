@@ -6,7 +6,6 @@ path_suffixes = [
     "conf",
     "cfg",
     "config",
-    ".editorconfig",
     "automount",
     "mount",
     "path",
